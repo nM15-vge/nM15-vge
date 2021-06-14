@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align=“left” alt=“Mauro's GitHub Stats” src=“https://github-readme-stats.vercel.app/api?username=nM15-vge&show_icons=true” />
-<img align=“left” alt=“Mauro’s GitHub Top Languages” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=nM15-vge” />
+![Mauro's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=nM15-vge&show_icons=true)
+![Mauro’s GitHub Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=nM15-vge&show_icons=true”)
